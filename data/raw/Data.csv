@@ -1,0 +1,226 @@
+STT,Sector,Company_Name,Ticker
+1,banking,Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank),VCB
+2,banking,Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV),BID
+3,banking,Ngân hàng TMCP Công Thương Việt Nam (VietinBank),CTG
+4,banking,Ngân hàng TMCP Kỹ thương Việt Nam (Techcombank),TCB
+5,banking,Ngân hàng TMCP Quân Đội (MBBank),MBB
+6,banking,Ngân hàng TMCP Việt Nam Thịnh Vượng (VPBank),VPB
+7,banking,Ngân hàng TMCP Á Châu (ACB),ACB
+8,banking,Ngân hàng TMCP Phát triển TP.HCM (HDBank),HDB
+9,banking,Ngân hàng TMCP Quốc tế Việt Nam (VIB),VIB
+10,banking,Ngân hàng TMCP Sài Gòn Thương Tín (Sacombank),STB
+11,banking,Ngân hàng TMCP Tiên Phong (TPBank),TPB
+12,banking,Ngân hàng TMCP Phương Đông (OCB),OCB
+13,banking,Ngân hàng TMCP Hàng Hải Việt Nam (MSB),MSB
+14,banking,Ngân hàng TMCP Lộc Phát Việt Nam (LPBank),LPB
+15,banking,Ngân hàng TMCP Đông Nam Á (SeABank),SSB
+16,real_estate,Công ty Cổ phần Vinhomes,VHM
+17,real_estate,Tập đoàn Vingroup,VIC
+18,real_estate,Công ty Cổ phần Tập đoàn Đầu tư Địa ốc No Va (Novaland),NVL
+19,real_estate,Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Điền,KDH
+20,real_estate,Công ty Cổ phần Đầu tư Nam Long,NLG
+21,real_estate,Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng (DIC Corp),DIG
+22,real_estate,Công ty Cổ phần Tập đoàn Đất Xanh,DXG
+23,real_estate,Công ty Cổ phần Phát triển Bất động sản Phát Đạt,PDR
+24,real_estate,Công ty Cổ phần Vincom Retail,VRE
+25,real_estate,Công ty Cổ phần Tập đoàn Hà Đô,HDG
+26,real_estate,Công ty Cổ phần Phát triển Đô thị Từ Liêm,NTL
+27,real_estate,Công ty Cổ phần Địa ốc Sài Gòn Thương Tín (TTC Land),SCR
+28,real_estate,Công ty Cổ phần Quốc Cường Gia Lai,QCG
+29,real_estate,Công ty Cổ phần Kinh doanh và Phát triển Bình Dương,TDC
+30,real_estate,Công ty Cổ phần Đầu tư Phát triển Đô thị và KCN Sông Đà (Sudico),SJS
+31,securities_financial_services,Công ty Cổ phần Chứng khoán SSI,SSI
+32,securities_financial_services,Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh,HCM
+33,securities_financial_services,Công ty Cổ phần Chứng khoán Vietcap,VCI
+34,securities_financial_services,Công ty Cổ phần Chứng khoán VNDIRECT,VND
+35,securities_financial_services,Công ty Cổ phần Chứng khoán FPT,FTS
+36,securities_financial_services,Công ty Cổ phần Chứng khoán Ngân hàng Công thương Việt Nam,CTS
+37,securities_financial_services,Công ty Cổ phần Chứng khoán Ngân hàng Đầu tư và Phát triển VN,BSI
+38,securities_financial_services,Công ty Cổ phần Chứng khoán VIX,VIX
+39,securities_financial_services,Công ty Cổ phần Chứng khoán Agribank,AGR
+40,securities_financial_services,Công ty Cổ phần Chứng khoán APG,APG
+41,securities_financial_services,Công ty Cổ phần Chứng khoán Tiên Phong,ORS
+42,securities_financial_services,Công ty Cổ phần Chứng khoán Rồng Việt,VDS
+43,securities_financial_services,Công ty Cổ phần Chứng khoán Thiên Việt,TVS
+44,securities_financial_services,Công ty Cổ phần Chứng khoán Trí Việt,TVB
+45,securities_financial_services,Công ty Tài chính Cổ phần Điện lực,EVF
+46,construction_installation,Công ty Cổ phần Xây dựng Coteccons,CTD
+47,construction_installation,Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam,VCG
+48,construction_installation,Công ty Cổ phần Đầu tư Hạ tầng Giao thông Đèo Cả,HHV
+49,construction_installation,Công ty Cổ phần FECON,FCN
+50,construction_installation,Công ty Cổ phần LIZEN,LCG
+51,construction_installation,Công ty Cổ phần Tập đoàn PC1,PC1
+52,construction_installation,Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật TP.HCM,CII
+53,construction_installation,Công ty Cổ phần Đầu tư Cầu đường CII,LGC
+54,construction_installation,Công ty Cổ phần Sonadezi Long Thành,SZL
+55,construction_installation,Công ty Cổ phần Tập đoàn EverLand,EVG
+56,construction_installation,Công ty Cổ phần Đầu tư Phát triển Công nghiệp và Vận tải,TCD
+57,construction_installation,Công ty Cổ phần Xây dựng và Phát triển Đô thị Tỉnh Bà Rịa - Vũng Tàu,UDC
+58,construction_installation,Công ty Cổ phần CIC39,C32
+59,construction_installation,Công ty Cổ phần Hưng Thịnh Incons,HTN
+60,construction_installation,Tổng Công ty Cổ phần Xây dựng Điện Việt Nam,VNE
+61,construction_materials_mining,Công ty Cổ phần Tập đoàn Hòa Phát,HPG
+62,construction_materials_mining,Công ty Cổ phần Tập đoàn Hoa Sen,HSG
+63,construction_materials_mining,Công ty Cổ phần Thép Nam Kim,NKG
+64,construction_materials_mining,Công ty Cổ phần Xi măng Vicem Hà Tiên,HT1
+65,construction_materials_mining,Công ty Cổ phần Nhựa Bình Minh,BMP
+66,construction_materials_mining,Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương,KSB
+67,construction_materials_mining,Công ty Cổ phần Đầu tư Thương mại SMC,SMC
+68,construction_materials_mining,Công ty Cổ phần Tập đoàn Thép Tiến Lên,TLH
+69,construction_materials_mining,Tổng Công ty Thủy tinh và Gốm xây dựng (Viglacera),VGC
+70,construction_materials_mining,Công ty Cổ phần Hóa An,DHA
+71,construction_materials_mining,Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO,CTI
+72,construction_materials_mining,Công ty Cổ phần Khoáng sản FECON,FCM
+73,construction_materials_mining,Công ty Cổ phần Đá Núi Nhỏ,NNC
+74,construction_materials_mining,Công ty Cổ phần Công nghiệp Gốm sứ Taicera,TCR
+75,construction_materials_mining,Công ty Cổ phần Đông Hải Bến Tre,DHC
+76,food_beverage,Công ty Cổ phần Sữa Việt Nam (Vinamilk),VNM
+77,food_beverage,Công ty Cổ phần Tập đoàn Masan,MSN
+78,food_beverage,Tổng Công ty Cổ phần Bia - Rượu - Nước giải khát Sài Gòn,SAB
+79,food_beverage,Công ty Cổ phần Tập đoàn KIDO,KDC
+80,food_beverage,Công ty Cổ phần Thành Thành Công - Biên Hòa,SBT
+81,food_beverage,Công ty Cổ phần Tập đoàn Dabaco Việt Nam,DBC
+82,food_beverage,Công ty Cổ phần Nông nghiệp BAF Việt Nam,BAF
+83,food_beverage,Công ty Cổ phần Vĩnh Hoàn,VHC
+84,food_beverage,Công ty Cổ phần Nam Việt,ANV
+85,food_beverage,Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I,IDI
+86,food_beverage,Công ty Cổ phần Thực phẩm Sao Ta,FMC
+87,food_beverage,Công ty Cổ phần Tập đoàn Sao Mai,ASM
+88,food_beverage,Công ty Cổ phần Xuất nhập khẩu Thủy sản Cửu Long An Giang,ACL
+89,food_beverage,Công ty Cổ phần Camimex Group,CMX
+90,food_beverage,Công ty Cổ phần Đầu tư Du lịch và Phát triển Thủy sản,DAT
+91,oil_gas_energy_power,Tổng Công ty Khí Việt Nam,GAS
+92,oil_gas_energy_power,Tập đoàn Xăng Dầu Việt Nam (Petrolimex),PLX
+93,oil_gas_energy_power,Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí,PVD
+94,oil_gas_energy_power,Tổng Công ty Điện lực Dầu khí Việt Nam,POW
+95,oil_gas_energy_power,Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2,NT2
+96,oil_gas_energy_power,Công ty Cổ phần Nhiệt điện Phả Lại,PPC
+97,oil_gas_energy_power,Tổng Công ty Phát điện 3,PGV
+98,oil_gas_energy_power,Công ty Cổ phần Điện Gia Lai,GEG
+99,oil_gas_energy_power,Công ty Cổ phần Cơ Điện Lạnh,REE
+100,oil_gas_energy_power,Công ty Cổ phần Sông Ba,SBA
+101,oil_gas_energy_power,Công ty Cổ phần Thủy điện Miền Nam,SHP
+102,oil_gas_energy_power,Công ty Cổ phần Thủy điện Vĩnh Sơn - Sông Hinh,VSH
+103,oil_gas_energy_power,Công ty Cổ phần Thủy điện Thác Mơ,TMP
+104,oil_gas_energy_power,Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành,TTA
+105,oil_gas_energy_power,Công ty Cổ phần Thủy điện Miền Trung,CHP
+106,retail_commerce,Công ty Cổ phần Đầu tư Thế Giới Di Động,MWG
+107,retail_commerce,Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận,PNJ
+108,retail_commerce,Công ty Cổ phần Bán lẻ Kỹ thuật số FPT (FPT Retail),FRT
+109,retail_commerce,Công ty Cổ phần Thế Giới Số (Digiworld),DGW
+110,retail_commerce,Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí,PET
+111,retail_commerce,Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh (Haxaco),HAX
+112,retail_commerce,Công ty Cổ phần Dịch vụ Tổng hợp Sài Gòn (Savico),SVC
+113,retail_commerce,Công ty Cổ phần Dịch vụ Hàng không Taseco,AST
+114,retail_commerce,Công ty Cổ phần Xuất nhập khẩu Petrolimex,PIT
+115,retail_commerce,Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam,TNA
+116,retail_commerce,Công ty Cổ phần Cao su Thống Nhất,TNC
+117,retail_commerce,Công ty Cổ phần Y Dược phẩm Vimedimex,VMD
+118,retail_commerce,Công ty Cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu,PSH
+119,retail_commerce,Công ty Cổ phần Thương nghiệp Cà Mau,CMV
+120,retail_commerce,Công ty Cổ phần Nhiên liệu Sài Gòn,SFC
+121,transportation_seaports_aviation,Công ty Cổ phần Gemadept,GMD
+122,transportation_seaports_aviation,Công ty Cổ phần Vận tải và Xếp dỡ Hải An,HAH
+123,transportation_seaports_aviation,Công ty Cổ phần Hàng không Vietjet,VJC
+124,transportation_seaports_aviation,Tổng Công ty Hàng không Việt Nam (Vietnam Airlines),HVN
+125,transportation_seaports_aviation,Công ty Cổ phần Vận tải Biển Việt Nam,VOS
+126,transportation_seaports_aviation,Công ty Cổ phần Tập đoàn Container Việt Nam,VSC
+127,transportation_seaports_aviation,Công ty Cổ phần Đầu tư và Phát triển Cảng Đình Vũ,DVP
+128,transportation_seaports_aviation,Công ty Cổ phần Cảng Cát Lái,CLL
+129,transportation_seaports_aviation,Công ty Cổ phần Cảng Đồng Nai,PDN
+130,transportation_seaports_aviation,Công ty Cổ phần Vận tải Xăng dầu VIPCO,VIP
+131,transportation_seaports_aviation,Công ty Cổ phần Vận tải Xăng dầu VITACO,VTO
+132,transportation_seaports_aviation,Tổng Công ty Cổ phần Vận tải Dầu khí,PVT
+133,transportation_seaports_aviation,Công ty Cổ phần Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng,TCL
+134,transportation_seaports_aviation,Công ty Cổ phần MHC,MHC
+135,transportation_seaports_aviation,Công ty Cổ phần Tàu cao tốc Superdong - Kiên Giang,SKG
+136,chemicals_fertilizers_plastics,Công ty Cổ phần Tập đoàn Hóa chất Đức Giang,DGC
+137,chemicals_fertilizers_plastics,Tổng Công ty Phân bón và Hóa chất Dầu khí (Đạm Phú Mỹ),DPM
+138,chemicals_fertilizers_plastics,Công ty Cổ phần Phân bón Dầu khí Cà Mau (Đạm Cà Mau),DCM
+139,chemicals_fertilizers_plastics,Công ty Cổ phần Phân bón Bình Điền,BFC
+140,chemicals_fertilizers_plastics,Công ty Cổ phần Phân bón Miền Nam,SFG
+141,chemicals_fertilizers_plastics,Công ty Cổ phần Hóa chất Cơ bản Miền Nam,CSV
+142,chemicals_fertilizers_plastics,Công ty Cổ phần Bột giặt Lix,LIX
+143,chemicals_fertilizers_plastics,Công ty Cổ phần Nhựa Rạng Đông,RDP
+144,chemicals_fertilizers_plastics,Công ty Cổ phần Cao su Bến Thành,BRC
+145,chemicals_fertilizers_plastics,Công ty Cổ phần Công nghiệp Cao su Miền Nam,CSM
+146,chemicals_fertilizers_plastics,Công ty Cổ phần Cao su Đà Nẵng,DRC
+147,chemicals_fertilizers_plastics,Công ty Cổ phần Pin Ắc quy Miền Nam,PAC
+148,chemicals_fertilizers_plastics,Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD,HCD
+149,chemicals_fertilizers_plastics,Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê,PLP
+150,chemicals_fertilizers_plastics,Công ty Cổ phần Công nghiệp Tân Tiến,TPC
+151,agriculture_forestry_rubber,Công ty Cổ phần Tập đoàn Hoàng Anh Gia Lai,HAG
+152,agriculture_forestry_rubber,Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai,HNG
+153,agriculture_forestry_rubber,Công ty Cổ phần Tập đoàn PAN,PAN
+154,agriculture_forestry_rubber,Công ty Cổ phần Giống cây trồng Miền Nam,SSC
+155,agriculture_forestry_rubber,Công ty Cổ phần Tập đoàn Giống cây trồng Việt Nam,NSC
+156,agriculture_forestry_rubber,Công ty Cổ phần Cao su Tây Ninh,TRC
+157,agriculture_forestry_rubber,Công ty Cổ phần Cao su Đồng Phú,DPR
+158,agriculture_forestry_rubber,Công ty Cổ phần Cao su Phước Hòa,PHR
+159,agriculture_forestry_rubber,Tập đoàn Công nghiệp Cao su Việt Nam,GVR
+160,agriculture_forestry_rubber,Công ty Cổ phần Cao su Hòa Bình,HRC
+161,agriculture_forestry_rubber,Công ty Cổ phần Đầu tư Sao Thái Dương,SJF
+162,agriculture_forestry_rubber,Công ty Cổ phần Chiếu xạ An Phú,APC
+163,agriculture_forestry_rubber,Công ty Cổ phần Nafoods Group,NAF
+164,agriculture_forestry_rubber,Công ty Cổ phần Khử trùng Việt Nam,VFG
+165,agriculture_forestry_rubber,Công ty Cổ phần Mía đường Lam Sơn,LSS
+166,textiles_wood_consumer_goods,Công ty Cổ phần Dệt may Đầu tư Thương mại Thành Công,TCM
+167,textiles_wood_consumer_goods,Công ty Cổ phần May Sông Hồng,MSH
+168,textiles_wood_consumer_goods,Công ty Cổ phần Sợi Thế Kỷ,STK
+169,textiles_wood_consumer_goods,Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh,GIL
+170,textiles_wood_consumer_goods,Công ty Cổ phần Everpia,EVE
+171,textiles_wood_consumer_goods,Công ty Cổ phần Damsan,ADS
+172,textiles_wood_consumer_goods,Công ty Cổ phần Sản xuất Thương mại May Sài Gòn,GMC
+173,textiles_wood_consumer_goods,Công ty Cổ phần Mirae,KMR
+174,textiles_wood_consumer_goods,Công ty Cổ phần Bóng đèn Phích nước Rạng Đông,RAL
+175,textiles_wood_consumer_goods,Công ty Cổ phần Bóng đèn Điện Quang,DQC
+176,textiles_wood_consumer_goods,Công ty Cổ phần Chế biến Gỗ Đức Thành,GDT
+177,textiles_wood_consumer_goods,Công ty Cổ phần Hợp tác Kinh tế và Xuất nhập khẩu Savimex,SAV
+178,textiles_wood_consumer_goods,Công ty Cổ phần Tập đoàn Kỹ nghệ Gỗ Trường Thành,TTF
+179,textiles_wood_consumer_goods,Công ty Cổ phần Phú Tài,PTB
+180,textiles_wood_consumer_goods,Công ty Cổ phần Tập đoàn Thiên Long,TLG
+181,infrastructure_industrial_parks,Tổng Công ty Phát triển Đô thị Kinh Bắc,KBC
+182,infrastructure_industrial_parks,Công ty Cổ phần Sonadezi Châu Đức,SZC
+183,infrastructure_industrial_parks,Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo,ITA
+184,infrastructure_industrial_parks,Tổng Công ty Đầu tư và Phát triển Công nghiệp (Becamex IDC),BCM
+185,infrastructure_industrial_parks,Công ty Cổ phần Đầu tư Sài Gòn VRG,SIP
+186,infrastructure_industrial_parks,Công ty Cổ phần Long Hậu,LHG
+187,infrastructure_industrial_parks,Công ty Cổ phần Phát triển Đô thị Công nghiệp Số 2,D2D
+188,infrastructure_industrial_parks,Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật,IJC
+189,infrastructure_industrial_parks,Công ty Cổ phần Phát triển Khu Công nghiệp Tín Nghĩa,TIP
+190,infrastructure_industrial_parks,Công ty Cổ phần Nước - Môi trường Bình Dương,BWE
+191,infrastructure_industrial_parks,Công ty Cổ phần Nước Thủ Dầu Một,TDM
+192,infrastructure_industrial_parks,Công ty Cổ phần Đầu tư Phát triển Hạ tầng IDICO,HTI
+193,infrastructure_industrial_parks,Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị IDICO,UIC
+194,infrastructure_industrial_parks,Công ty Cổ phần Đầu tư Năm Bảy Bảy,NBB
+195,infrastructure_industrial_parks,Tổng Công ty Cổ phần Địa ốc Sài Gòn,SGR
+196,technology_telecommunications_multi_industry,Công ty Cổ phần Tập đoàn FPT,FPT
+197,technology_telecommunications_multi_industry,Công ty Cổ phần Tập đoàn Công nghệ CMC,CMG
+198,technology_telecommunications_multi_industry,Công ty Cổ phần Công nghệ - Viễn thông ELCOM,ELC
+199,technology_telecommunications_multi_industry,Công ty Cổ phần Viễn thông Tin học Bưu điện,ICT
+200,technology_telecommunications_multi_industry,Công ty Cổ phần Công nghệ Tiên Phong,ITD
+201,technology_telecommunications_multi_industry,Công ty Cổ phần Công nghệ Viễn thông Sài Gòn,SGT
+202,technology_telecommunications_multi_industry,Công ty Cổ phần SAM Holdings,SAM
+203,technology_telecommunications_multi_industry,Tổng Công ty Cổ phần Công trình Viettel,CTR
+204,technology_telecommunications_multi_industry,Công ty Cổ phần Tập đoàn Yeah1,YEG
+205,technology_telecommunications_multi_industry,Công ty Cổ phần Tập đoàn GELEX,GEX
+206,technology_telecommunications_multi_industry,Công ty Cổ phần Tập đoàn Bamboo Capital,BCG
+207,technology_telecommunications_multi_industry,Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy,TCH
+208,technology_telecommunications_multi_industry,Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy,HHS
+209,technology_telecommunications_multi_industry,Công ty Cổ phần Tập đoàn F.I.T,FIT
+210,technology_telecommunications_multi_industry,Công ty Cổ phần Siêu Thanh,ST8
+211,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Dược Hậu Giang,DHG
+212,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Dược phẩm Imexpharm,IMP
+213,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Dược phẩm Cửu Long,DCL
+214,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Traphaco,TRA
+215,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định (Bidiphar),DBD
+216,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Xuất nhập khẩu Y tế Domesco,DMC
+217,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Thiết bị Y tế Việt Nhật,JVC
+218,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Bệnh viện Quốc tế Thái Nguyên,TNH
+219,pharmaceuticals_healthcare_insurance,Công ty Cổ phần Dược phẩm OPC,OPC
+220,pharmaceuticals_healthcare_insurance,Công ty Cổ phần S.P.M,SPM
+221,pharmaceuticals_healthcare_insurance,Tập đoàn Bảo Việt,BVH
+222,pharmaceuticals_healthcare_insurance,Tổng Công ty Cổ phần Bảo Minh,BMI
+223,pharmaceuticals_healthcare_insurance,Tổng Công ty Cổ phần Bảo hiểm Quân đội,MIG
+224,pharmaceuticals_healthcare_insurance,Tổng Công ty Cổ phần Bảo hiểm Ngân hàng Đầu tư và Phát triển VN,BIC
+225,pharmaceuticals_healthcare_insurance,Tổng Công ty Cổ phần Bảo hiểm Petrolimex,PGI
