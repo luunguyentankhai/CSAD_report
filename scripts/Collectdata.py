@@ -3,28 +3,26 @@ import os
 import requests
 import pandas as pd
 import time
+import config
 
 
 class Data_Harvester:
     def __init__(self):
-        self.base_url = "https://cafef.vn/du-lieu/Ajax/PageNew/DataHistory/PriceHistory.ashx?Symbol=VNINDEX&StartDate=&EndDate=&PageIndex=1&PageSize=4000"
-        self.Curr_dir = Path(__file__).resolve().parent
-        self.Data_raw_dir = self.Curr_dir.parent / "data" / "raw"
-        self.Data_download = self.Curr_dir.parent / "data" / "processed"
-        self.df = pd.read_csv(self.Data_raw_dir / "Data.csv")
+        self.base_url = config.BASE_URL
+        self.df = pd.read_csv(config.ROOT_DATA_FILE)
         self.Data_map = self.df.groupby('Sector')['Ticker'].apply(list).to_dict()
     
     def Harvester(self):
-        # Using for company            
+        # Using for company
         for k in self.Data_map.keys():
-            if Path.exists(self.Data_raw_dir / k):
+            if Path.exists(config.RAW_DATA_DIR / k):
                 print('folder có tồn tại')
                 pass
             else:
                 print('folder không tồn tại... đang tạo folder')
-                os.mkdir(self.Data_raw_dir / k)
+                os.mkdir(config.RAW_DATA_DIR / k)
             for v in self.Data_map[k]:
-                if Path.exists(self.Data_raw_dir / k / f"{v}.csv"):
+                if Path.exists(config.RAW_DATA_DIR / k / f"{v}.csv"):
                     print("file dữ liệu đã tồn tại")
                     continue
                 else:
@@ -42,10 +40,10 @@ class Data_Harvester:
                         stock_ticker = raw_data["Data"]["Data"]
 
                         df = pd.DataFrame(stock_ticker)
-                        df_selected = df[["Ngay", "GiaDongCua"]]
+                        df_selected = df[["Ngay", "Symbol", "GiaDongCua"]]
 
                         csv_name = f"{v}.csv"
-                        df_selected.to_csv(self.Data_raw_dir / k / csv_name, index=False, encoding="utf-8-sig")
+                        df_selected.to_csv(config.RAW_DATA_DIR / k / csv_name, index=False, encoding="utf-8-sig")
                     except Exception as e:
                         print(f"Error : {e}")
                     finally:
