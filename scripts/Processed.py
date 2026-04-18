@@ -1,13 +1,11 @@
-from pathlib import Path
 import pandas as pd
 from scripts import Collectdata
 import time
+import config
 
 
 class Processed:
     def __init__(self):
-        self.Curr_dir = Path(__file__).resolve().parent
-        self.Data_dir = self.Curr_dir.parent / "data"
         self.Data_map = Collectdata.Data_Harvester().Data_map
 
     def GetDate(self):
@@ -15,7 +13,7 @@ class Processed:
             for v in self.Data_map[k]:
                 start_time = time.perf_counter()
                 try:
-                    set_dir = self.Data_dir / "raw" / f"{k}" / f"{v}.csv"
+                    set_dir = config.RAW_DATA_DIR / f"{k}" / f"{v}.csv"
                     df = pd.read_csv(set_dir)
 
                     df["Ngay"] = pd.to_datetime(
