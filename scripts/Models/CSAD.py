@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 from scripts import Collectdata
 from time import perf_counter
+import statsmodels.api as sm    
 import config
 
 
@@ -30,6 +31,8 @@ class CSAD:
                 df["Nganh"] = k
                 df["MaCP"] = v
                 df["R_i_t"] = np.log(df["GiaDongCua"] / df["GiaDongCua"].shift(1)) * 100
+                
+                df = df.dropna(subset=["R_i_t"])
 
                 all_data.append(df)
         if all_data:
