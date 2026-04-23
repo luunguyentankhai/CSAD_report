@@ -18,7 +18,7 @@ def main():
     start.PD.GetDate()  
     csad_t = start.CSAD.Covid_dummy_variabel()
     start.MC.MulticollinerCheck(csad_t).Multicolliner_report()
-    start.OLS.OLS_Analyzer(csad_t).interaction_OLS()
+    # start.OLS.OLS_Analyzer(csad_t).interaction_OLS()
     start.DS.StatsReports(csad_t).Descriptive_stats()
     start.OLS.OLS_Analyzer(csad_t).sub_sample_OLS()
 
