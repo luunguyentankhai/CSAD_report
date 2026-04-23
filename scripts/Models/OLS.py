@@ -47,34 +47,34 @@ class OLS_Analyzer:
                 self.result[name] = model
         return self.result
 
-    def interaction_OLS(self):
-        self.Data["H2_Sq_Rmt"] = self.Data["H2"] * self.Data["R_m_t^2"]
-        self.Data["H3_Sq_Rmt"] = self.Data["H3"] * self.Data["R_m_t^2"]
-
-        Y = self.Data["CSAD_t"]
-        X = self.Data[["Abs_R_m_t", "R_m_t^2", "H2_Sq_Rmt", "H3_Sq_Rmt"]]
-
-        X = sm.add_constant(X)
-
-        model_full = sm.OLS(Y, X).fit()
-
-        print("FULL MODEL \n")
-
-        result = {
-            "Hệ số(coef)": model_full.params,
-            "Sai số(std err)": model_full.bse,
-            "T-Statistics": model_full.tvalues,
-            "P_Value": model_full.pvalues,
-            "R^2": model_full.rsquared,
-            "Adj. R^2": model_full.rsquared_adj,
-        }
-
-        df_res = pd.DataFrame(result)
-        df_res = df_res.round(5)
-        file_name = "Full_Market.csv"
-
-        df_res.to_csv(config.PROCESS_DATA_DIR / file_name, encoding="utf-8-sig")
-        print(model_full.summary())
-
-        print(f"\n{'='*50}")
-        return model_full
+    # def interaction_OLS(self):
+    #     self.Data["H2_Sq_Rmt"] = self.Data["H2"] * self.Data["R_m_t^2"]
+    #     self.Data["H3_Sq_Rmt"] = self.Data["H3"] * self.Data["R_m_t^2"]
+    #
+    #     Y = self.Data["CSAD_t"]
+    #     X = self.Data[["Abs_R_m_t", "R_m_t^2", "H2_Sq_Rmt", "H3_Sq_Rmt"]]
+    #
+    #     X = sm.add_constant(X)
+    #
+    #     model_full = sm.OLS(Y, X).fit()
+    #
+    #     print("FULL MODEL \n")
+    #
+    #     result = {
+    #         "Hệ số(coef)": model_full.params,
+    #         "Sai số(std err)": model_full.bse,
+    #         "T-Statistics": model_full.tvalues,
+    #         "P_Value": model_full.pvalues,
+    #         "R^2": model_full.rsquared,
+    #         "Adj. R^2": model_full.rsquared_adj,
+    #     }
+    #
+    #     df_res = pd.DataFrame(result)
+    #     df_res = df_res.round(5)
+    #     file_name = "Full_Market.csv"
+    #
+    #     df_res.to_csv(config.PROCESS_DATA_DIR / file_name, encoding="utf-8-sig")
+    #     print(model_full.summary())
+    #
+    #     print(f"\n{'='*50}")
+    #     return model_full
